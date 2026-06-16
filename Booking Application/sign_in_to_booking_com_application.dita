@@ -1,15 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="what_is_subtract_of_numbers">
-    <title>What is subtract of numbers?</title>
-    <shortdesc>Here you will learn what is subtraction. </shortdesc>
-    <conbody>
-        <p>To successfully perform the task of subtracting numbers, you must know what is
-            subtraction. The term "subtraction" represents a mathematical operation. Subtraction is
-            a process, an action that you do perofmr using numbers. Subtraction allows you to find
-            the difference of 2 numbers. </p>
-        <p>You use the minus (-) button to express the subtraction operation in the app. </p>
-        <p>In the subtraction process, you take a number and reduce it to a smaller number. that is,
-            we take away one number from another. </p>
-    </conbody>
-</concept>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="sign_in_to_the_booking_com_application">
+    <title>Sign In or Account Set Up for the Booking.com Application</title>
+    <shortdesc>To Sign In to the Booking.com Application:</shortdesc>
+    <taskbody>
+        <context>
+            <p>Travellers can sign in to the Booking.com application with the Google web browser,
+                with Facebook or with an email.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>On the <b>Sign In </b>screen, select any options as <b>Continue with
+                    Google</b>, <b>Continue With Facebook</b>, or<b> Continue with Email.</b></cmd>
+            </step>
+            <stepsection>
+                <image
+                    href="../../../Desktop/images/Installation%20of%20the%20Booking.com%20Application/Sign%20in%20screen.jpg"
+                    width="200" height="200" id="image_lxr_mvv_1bc"/></stepsection>
+            <step>
+                <info>
+                    <ul id="ul_zrl_bcj_1bc">
+                        <li>Continue with Google option selected.<ol id="ol_twn_2cj_1bc">
+                                <li>The<b> Choose an Account</b> screen displays with a list of
+                                    avialable accounts. </li>
+                                <li>Choose any available gmail account or choose<b> Add another
+                                        account</b> option.</li>
+                                <li>Enter any other account.</li>
+                                <li>The selected account is registered for Booking.com.</li>
+                            </ol></li>
+                    </ul>
+                    <ul id="ul_cqg_pcj_1bc">
+                        <li>Continue With Facebook option selected.<ol id="ol_bpr_5cj_1bc">
+                                <li>The <b>Facebook</b> screen displays.</li>
+                                <li>Enter the facebook account as Email Address and Password.</li>
+                                <li>Click the <b>To register </b>button.</li>
+                                <li>The facebook account is registerd for Booking.com
+                                    application.</li>
+                            </ol></li>
+                        <li>Continue with email option selected.<ol id="ol_f1s_32j_1bc">
+                                <li>The <b>Enter your email address </b>screen displays.</li>
+                                <li>Enter the email address in the <b>Email address</b> field.</li>
+                                <li>Click <b>Continue</b> button.</li>
+                                <li>The selected account is registered for Booking.com</li>
+                            </ol></li>
+                    </ul>
+                </info>
+            </step>
+        </steps>
+        <result id="result_hs4_fwv_1bc"> The Booking.com homepage displays.</result>
+    </taskbody>
+</task>
