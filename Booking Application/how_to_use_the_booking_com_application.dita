@@ -1,35 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="how_to_sum_up_numbers">
-    <title>How to sum up numbers?</title>
-    <shortdesc>To sum up numbers using the JPS Calculator app, enter the first number, press the
-        plus button, enter the second number, and press the equals button.</shortdesc>
-    <taskbody>
-        <context>
-            <p>Follow these step-by-step instructions to calculate the sum of two numbers:</p>
-        </context>
-        <steps>
-            <step>
-                <cmd>Enter the first number using the on-screen keypad.</cmd>
-            </step>
-            <step>
-                <cmd>Press the plus (+) button to select the addition operation.</cmd>
-            </step>
-            <step>
-                <cmd>Enter the second number using the keypad.</cmd>
-            </step>
-            <step>
-                <cmd>Press the equal (=) button to complete the calculation.</cmd>
-            </step>
-        </steps>
-        <result id="result_jq2_xdm_4jc">
-            <p>The final total appears instantly on the primary display screen.</p>
-        </result>
-        <?oxy_insert_start author="shilpakaul11" timestamp="20260612T171240-0500"?>
-        <example id="example_lqq_4fm_4jc">You want to sum up 2 and 3. The equation will look like:
-            2+3=5. You enter 2. Press plus. Enter 3. Press equals. The result 5 appears on the
-            screen.</example>
-        <?oxy_insert_end?>
-    </taskbody>
-</task>
-<?oxy_options track_changes="on"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>How To Use the Booking.com Application to Search a Hotel</title>
+    <topichead navtitle="What is the Booking.com Application?">
+        <topicref href="about_booking_com.dita"/>
+        <topicref href="what_is_a_online_booking_travel_agency.dita"/>
+    </topichead>
+    <topichead navtitle=" Installation and Account Set Up for the Booking.com Application">
+        <topicref href="steps_for_installation_of_the_booking_com_application.dita"/>
+        <topicref href="sign_in_to_the_booking_com_application.dita"/>
+    </topichead>
+    <topichead navtitle="Searching and Booking a Hotel on the Booking.com Application">
+        <topicref href="searching_a_hotel_on_the_booking_com_application.dita"/>
+    </topichead>
+</map>
