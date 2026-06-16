@@ -1,35 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="how_to_sum_up_numbers">
-    <title>How to sum up numbers?</title>
-    <shortdesc>To sum up numbers using the JPS Calculator app, enter the first number, press the
-        plus button, enter the second number, and press the equals button.</shortdesc>
+<task id="searching_a_hotel_on_the_booking_com_application">
+    <title>Searching a Hotel on the Booking.com Application</title>
+    <shortdesc>To search a hotel on the Booking.com Application:</shortdesc>
     <taskbody>
         <context>
-            <p>Follow these step-by-step instructions to calculate the sum of two numbers:</p>
+            <p>Travellers can search different stays like hotels, or homestays, or apartments on the
+                Booking.com application.</p>
         </context>
         <steps>
             <step>
-                <cmd>Enter the first number using the on-screen keypad.</cmd>
+                <cmd>On the Booking.com application screen, click on the <b>Stays </b>tab. The
+                    details of the Stays tab display.</cmd>
+            </step>
+            <stepsection>
+                <image
+                    href="../../../Desktop/images/Installation%20of%20the%20Booking.com%20Application/Booking.com%20homepage.jpg"
+                    width="200" height="200" id="image_ash_5yv_1bc"/></stepsection>
+            <step>
+                <cmd>Enter a destination or search a destination in the <b>Enter your
+                        destination</b> field.</cmd>
             </step>
             <step>
-                <cmd>Press the plus (+) button to select the addition operation.</cmd>
+                <cmd>Click the <b>Calendar</b> icon to select the dates. The Select dates screen
+                    displays.</cmd>
+                <info>
+                    <image
+                        href="../../../Desktop/images/Installation%20of%20the%20Booking.com%20Application/Select%20dates%20screen.jpg"
+                        width="200" height="200" id="image_bpk_gzv_1bc"/><ol id="ol_sqf_y3j_1bc">
+                        <li>On the Select dates screen, click the <b>Calendar</b> tab</li>
+                        <li>On the Calendar tab, scroll up and down to select a date and year.</li>
+                        <li>At the bottom of the Calendar tab, click <b>Exact dates</b> to book the
+                            hotel on exact dates.</li>
+                        <li>Click any plus minus 1 day, 2 days, 3 days, and so on options to book
+                            the hotel either in next 2 or 3 days as per preference.</li>
+                        <li>On the Select dates screen, click the <b>I'm Flexible</b> tab.</li>
+                    </ol></info>
+            </step>
+            <stepsection>
+                <image
+                    href="../../../Desktop/images/Installation%20of%20the%20Booking.com%20Application/flexible.jpg"
+                    width="200" height="200" id="image_l4z_vzv_1bc"/></stepsection>
+            <step>
+                <info>
+                    <ol id="ol_ndj_5zv_1bc">
+                        <li>Under the <b>How long do you want to stay?</b> option , select A
+                            weekend, A week, and so on.</li>
+                        <li>Under the <b>When do yo want to go? </b>option, scroll to the left and
+                            select any 3 months from the list.</li>
+                        <li>Click the <b>Select dates</b> button at the bottom of the screen. The
+                            dates are selected for the stays.</li>
+                    </ol>
+                </info>
             </step>
             <step>
-                <cmd>Enter the second number using the keypad.</cmd>
+                <cmd>Click the <b>People</b> icon  to select a room. The Select rooms and guests
+                    screen displays.</cmd>
             </step>
             <step>
-                <cmd>Press the equal (=) button to complete the calculation.</cmd>
+                <cmd>Click the + or - icons in the <b>Number box</b> to select more or less
+                        <b>Rooms</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Click the + and - icons in the <b>Number box </b>to select more or less
+                        <b>Adults</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Click the + and - icons in the Number box to select more or less
+                        <b>Children.</b></cmd>
+            </step>
+            <step>
+                <cmd>Click the slider to enable the <b>Travelling with pets?</b> option.</cmd>
+            </step>
+            <step>
+                <cmd>Click the<b> Apply </b>button to apply the selected options for Rooms, Adults,
+                    Children, and Pets.The screen is navigated to the Booking.com homepage</cmd>
+            </step>
+            <step>
+                <cmd>Click the <b>Search</b> button. The list of hotels is available according to
+                    the selected criteria.</cmd>
             </step>
         </steps>
-        <result id="result_jq2_xdm_4jc">
-            <p>The final total appears instantly on the primary display screen.</p>
-        </result>
-        <?oxy_insert_start author="shilpakaul11" timestamp="20260612T171240-0500"?>
-        <example id="example_lqq_4fm_4jc">You want to sum up 2 and 3. The equation will look like:
-            2+3=5. You enter 2. Press plus. Enter 3. Press equals. The result 5 appears on the
-            screen.</example>
-        <?oxy_insert_end?>
+        <result id="result_i5t_zzv_1bc">The list of hotels is available as per the
+            requirement.</result>
     </taskbody>
 </task>
-<?oxy_options track_changes="on"?>
