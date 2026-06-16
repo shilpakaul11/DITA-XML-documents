@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="what_is_sum_up_of_numbers">
-    <title>What is sum up of numbers?</title>
-    <shortdesc>Here you will learn what is sum of numbers. </shortdesc>
+<concept id="what_is_a_online_booking_travel_agency">
+    <title>What is a Online Booking Travel Agency?</title>
+    <shortdesc> Concept of Online Booking Travel Agency:</shortdesc>
     <conbody>
-        <p>The sum of numbers is the grand total you get when you combine two or more amounts into a
-            single value. You use the sum of numbers daily to calculate total costs, track time, or
-            measure quantities. Every addition problem consists of three basic parts:<ul
-                id="ul_phv_g3m_4jc">
-                <li>Addends: The individual numbers you are combining.</li>
-                <li>Plus Sign (+): The symbol indicating that the numbers are being added
-                    together.</li>
-                <li>Sum: The final result or total.</li>
-            </ul></p>
+        <p>In the past, booking hotels required travellers to physically visit a travel agent or the
+            destination.The convenience of online hotel booking agencies allows travellers to easily
+            book accomodations from anywhere in the world. Travellers can easily book hotels online
+            based on their needs and budget using an application or web portal.</p>
     </conbody>
 </concept>
