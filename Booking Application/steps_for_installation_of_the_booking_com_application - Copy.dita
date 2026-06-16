@@ -1,17 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="what_is_sum_up_of_numbers">
-    <title>What is sum up of numbers?</title>
-    <shortdesc>Here you will learn what is sum of numbers. </shortdesc>
-    <conbody>
-        <p>The sum of numbers is the grand total you get when you combine two or more amounts into a
-            single value. You use the sum of numbers daily to calculate total costs, track time, or
-            measure quantities. Every addition problem consists of three basic parts:<ul
-                id="ul_phv_g3m_4jc">
-                <li>Addends: The individual numbers you are combining.</li>
-                <li>Plus Sign (+): The symbol indicating that the numbers are being added
-                    together.</li>
-                <li>Sum: The final result or total.</li>
-            </ul></p>
-    </conbody>
-</concept>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="steps_for_installation_of_the_booking_com_application">
+    <title>Steps for Installation of the Booking.com Application</title>
+    <shortdesc>To install Booking.com Application:</shortdesc>
+    <taskbody>
+        <context>
+            <p>Travellers can install the Booking.com application via Playstore application already
+                installed on the mobile or via any web browser like Google Chrome, Microsoft Edge,
+                and so on. Below procedure descrtibes the installation procedure via Playstore
+                application.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>On the mobile phone, go to the <b>Apps</b> section.</cmd>
+            </step>
+            <stepsection>
+                <image
+                    href="../../../Desktop/images/Installation%20of%20the%20Booking.com%20Application/Mobile%20Phone%20image.jpg"
+                    width="200" height="200" id="image_d2f_gnv_1bc"/></stepsection>
+            <step>
+                <cmd>Click the <b>Play Store</b><image
+                        href="../../../Desktop/images/Installation%20of%20the%20Booking.com%20Application/Playstore%20icon.jpg"
+                        width="30" height="20" id="image_zxf_vmv_1bc"/> icon.</cmd>
+            </step>
+            <step>
+                <cmd>Tap on the <b>Search</b> bar at the top of the screen.</cmd>
+            </step>
+            <step>
+                <cmd>Type in the name <b>Booking.com</b> in the Search bar. The Booking.com
+                    application icon displays.The Install button displays at the right of
+                    Booking.com icon.</cmd>
+            </step>
+            <stepsection>
+                <image
+                    href="../../../Desktop/images/Installation%20of%20the%20Booking.com%20Application/Type%20booking.com%20in%20Search.jpg"
+                    width="200" height="250" id="image_pjt_ynv_1bc"/></stepsection>
+            <step>
+                <cmd>Click the <b> Install</b> button. The Booking.com application is installed on
+                    the mobile phone.The Open button displays.</cmd>
+            </step>
+            <stepsection>
+                <image
+                    href="../../../Desktop/images/Installation%20of%20the%20Booking.com%20Application/Open%20button.jpg"
+                    width="250" height="150" id="image_jps_j4v_1bc"/></stepsection>
+            <step>
+                <cmd>Click the <b>Open</b> button. The screen navigates to the Notifications
+                    screen.</cmd>
+            </step>
+            <stepsection>
+                <image
+                    href="../../../Desktop/images/Installation%20of%20the%20Booking.com%20Application/Notification%20Screen.jpg"
+                    width="200" height="250" id="image_vd5_q4v_1bc"/></stepsection>
+            <step>
+                <cmd>Click <b>OK </b>or <b>Not Now </b>to allow the Booking.com application to send
+                    alert notifications.The Sign in screen is visible.</cmd>
+                <stepresult>The Sign in screen is visible.</stepresult>
+            </step>
+            <stepsection>
+                <image
+                    href="../../../Desktop/images/Installation%20of%20the%20Booking.com%20Application/Sign%20in%20screen.jpg"
+                    width="200" height="200" id="image_ckm_1wv_1bc"/></stepsection>
+        </steps>
+    </taskbody>
+</task>
